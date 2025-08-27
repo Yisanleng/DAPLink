@@ -31,7 +31,6 @@
 #define __DAP_H__
 
 
-
 // DAP Firmware Version
 #ifdef  DAP_FW_V1
 #define DAP_FW_VER                      "1.3.0"
